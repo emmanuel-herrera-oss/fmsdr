@@ -19,4 +19,4 @@ Run the build.sh script on a system with clang or change it to use whatever comp
 - 4 to toggle yielding of excess cpu time
 
 ## Demo
-[emmanuel-herrera-oss.github.io/real-time-dsp/](emmanuel-herrera-oss.github.io/real-time-dsp/) at the bottom of the page
+[https://emmanuel-herrera-oss.github.io/real-time-dsp/](https://emmanuel-herrera-oss.github.io/real-time-dsp/) at the bottom of the page
